@@ -1,2 +1,2 @@
 # language-translator
-it is a simple language translator whicg
+it is a simple language translator which
